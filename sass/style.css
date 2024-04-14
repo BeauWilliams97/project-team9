@@ -843,7 +843,7 @@ textarea {
 }
 
 .dark-blue-header {
-  background-color: #023c5c !important;
+  background-color: 0 !important;
   color: white;
   padding: 30px !important;
 }
